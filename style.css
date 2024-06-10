@@ -1,0 +1,38 @@
+/* custom.css */
+
+/* Change the skin color */
+.skin-green .main-header .logo {
+  background-color: #AC1A2F; /* Clark University primary color */
+}
+
+.skin-green .main-header .navbar {
+  background-color: #AC1A2F; /* Clark University primary color */
+}
+
+.skin-green .main-sidebar {
+  background-color: #AC1A2F; /* Clark University primary color */
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu .active a {
+  background-color: #850D22; /* Darker shade for active menu item */
+}
+
+.skin-green .main-header .navbar .sidebar-toggle:hover {
+  background-color: #850D22; /* Darker shade for hover effect */
+}
+
+.skin-green .main-sidebar .sidebar .sidebar-menu a {
+  color: #FFFFFF; /* White text for sidebar menu items */
+}
+
+.skin-green .main-header .navbar .sidebar-toggle {
+  color: #FFFFFF; /* White color for the toggle button */
+}
+
+/* Add custom footer styling */
+.main-footer {
+  background: #AC1A2F;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
